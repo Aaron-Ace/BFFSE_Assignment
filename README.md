@@ -27,3 +27,7 @@ npm start
 
 ##### Page Looks
 ![Demo](simple_application/demo.jpg)
+
+##### TODO
+1. Make the words and sentence as variable for data eazy change
+2. Make it shows normally on phone page
